@@ -1,4 +1,8 @@
 _repo: Wintering-in-the-Riviera-With-Notes-of-Travel-in-Italy-and-France-and-Practical-Hints-to-Trav__47463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47463-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, William James
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '34876'
     url: http://www.gutenberg.org/2009/agents/34876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47463#Wintering-in-the-Riviera-With-Notes-of-Travel-in-Italy-and-France-and-Practical-Hints-to-Trav_
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
 identifiers:
