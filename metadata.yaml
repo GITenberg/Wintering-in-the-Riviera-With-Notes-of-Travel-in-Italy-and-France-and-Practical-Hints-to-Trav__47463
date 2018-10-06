@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Wintering in the Riviera
 
   With Notes of Travel in Italy and France, and Practical
